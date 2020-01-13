@@ -1,1 +1,1 @@
-# rituals
+# Le sprint

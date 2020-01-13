@@ -14,7 +14,7 @@ module.exports = {
             ['tools', 'Outils de suivi'],
             ['backlog', 'La constitution du backlog'],
             ['design', 'Le cas particulier du design'],
-            ['rituals', 'Les rituels scrum']
+            ['rituals', 'Le sprint']
           ],
           
           '/stack/': [

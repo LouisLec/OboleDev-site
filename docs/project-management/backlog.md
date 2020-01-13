@@ -45,4 +45,22 @@ Les *user stories* correspondent à un souhait précis d'un visiteur ayant un r�
 
 L'équipe de développement va traiter les *user stories* une à une, en traduisant les attentes "métier" en termes techniques. Pour s'assurer d'avoir bien rempli les attentes du *product owner*, les *user stories* doivent aussi comporter des critères d'acceptation, dans la forme suivante:
 > Lorsque je `<action unique>`, alors `<conséquences de l'action>`
+
+::: warning Note
+Dans les critères d'accepation, nous vous demandons de faire référence au design établi préalablement. Dans le document XD contenant les planches de votre site, relevez le nom de la planche correspondante au critère d'accepation et mentionnez le
+:::
 ### Pour en créer une
+Pour créer une *user story*, rendez-vous dans le *backlog* et basculer en mode *epic* (voir plus haut). La liste des *epics* s'affiche, et en passant le curseur au dessus de l'*epic* qui nous intéresse, un signe "+" s'affiche. Cliquez simplement dessus pour ajouter une *Issue*. C'est dans cette *issue* que vous allez écrire votre *user story*.
+![newIssue](../.vuepress/assets/img/new_issue.png)
+![issue](../.vuepress/assets/img/issue.png)
+
+les champs à modifier de la carte *issue* sont le titre (la *user story* en question), la description (les *critères d'acceptation*) et la **priorité**.
+
+::: warning Conseil
+Ajoutez une priorité à votre *user story*, pour permettre de cerner les cartes à traiter en priorité en début de sprint.
+:::
+
+### Discussions sur les *user stories*
+Il est fréquent lors des *sprint plannings* (voir [Rituels](rituals)) que l'équipe de développement demande à retravailler une *user story* soit pour la scinder en plusieurs plus concises, soit pour mieux cerner les besoins, soit car elle ne semble pas en adéquation avec le reste du projet.
+
+Pour voir un exemple réel, rendez-vous [ici](https://dev.azure.com/obelos/Demonstration)
