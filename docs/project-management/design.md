@@ -3,6 +3,33 @@ Gérer le design en Agile s'avère plus complexe que gérer le développement in
 
 En méthode Agile, nous vous vendons du temps. Voici donc ce que nous vous recommandons pour être le plus efficace sur cette phase de design.
 
+## Le design des pages comme materiel de base
+Lorsque les développeurs vont attaquer le développement du site, *i.e.* des pages du site, il sera necessaire qu'ils disposent d'un design des pages. Les développeurs ne sont pas designer d'interface, ils implémentent les interfaces designées en amont.
+
+Nous démarrons donc nos projets par un premier sprint de design uniquement, à l'issue duquel les premières pages du site doivent être validées pour permettre aux développeurs de démarrer.
+
+::: tip
+Il est à noter qu'en développement informatique, rien n'est immuable. Nous pouvons donc démarrer le développement d'une page et revenir sur son design ensuite. Notez juste qu'en méthode Agile, nous vendons du temps. Pensez donc à prioriser vos demandes.
+:::
+
+## Le processus de design
+Comme dit plus tôt, le design est en partie une question de goût, ce qui rend plus compliqué les interractions avec le client.
+
+Nous distinguons donc plusieurs cas selon vos exigences, que vous ayez une idée précise de l'llure finale de la page ou non.
+
+Dans tous les cas, nous attendfrons de vous un certain nombre d'éléments pour la réalisation des maquettes du site.
+
+* **Cas 1: vous n'avez pas d'exigences particulières pour le design du site**
+
+Dans ce cas précis, nous devons travailler ensemble (compter une demie journée à une journée) pour détailler votre besoin. Sur cette base, nous serons en mesure de vous proposer une interface utilisateur complète basée sur notre expérience et des principes généraux de design d'interface. A ce moment nous complèterons nous-même le *backlog* sur la partie design et vous ferons une présentation régulière du travail réalisé pour collecter vos retours.
+
+* **Cas 2: vous avez des exigences particulières quant au contenu des pages**
+
+
+* **Cas 3: vous avez des exigences particulières quant au contenu et à l'allure des pages**
+
+
+
 ## Lister les différents écrans du site
 Cette étape est le point de départ de notre projet. En listant les pages du site, vous faîtes le tour des fonctionnalités, vous définissez l'expérience utilisateur, vous décrivez quelles données doivent être visibles à tel endroit, la disposition des éléments sur une page...
 
